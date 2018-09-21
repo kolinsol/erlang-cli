@@ -1,5 +1,0 @@
-#!/usr/bin/env escript
-%%! -pa build/default/lib/cli/ebin
-
-main(Args) ->
-    sample_cli:main(Args).
